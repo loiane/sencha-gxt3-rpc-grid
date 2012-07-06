@@ -1,0 +1,2 @@
+serviceClass: com.loiane.gxt3.shared.service.ContactService
+path: 44C7C706B1BB7AA453043AA70FF9426F.gwt.rpc
